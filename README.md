@@ -5,7 +5,7 @@
 In this workshop, you'll be using flexbox to style the front page of a fictional
 bakery named Fullstack Bakery.
 
-## Getting Started
+# Getting Started
 
 1. Create a new repository under your GitHub account using this one as a template.
 2. Clone your repository down to your local machine.
